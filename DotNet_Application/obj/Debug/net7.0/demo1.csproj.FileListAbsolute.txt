@@ -1,0 +1,273 @@
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\appsettings.Development.json
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\appsettings.json
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\demo1.exe
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\demo1.deps.json
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\demo1.runtimeconfig.json
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\demo1.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\demo1.pdb
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Google.Protobuf.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\MySql.Data.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\ZstdSharp.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.csproj.AssemblyReference.cache
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.AssemblyInfoInputs.cache
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.AssemblyInfo.cs
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.csproj.CoreCompileInputs.cache
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.MvcApplicationPartsAssemblyInfo.cs
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.MvcApplicationPartsAssemblyInfo.cache
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\staticwebassets\msbuild.demo1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\staticwebassets\msbuild.build.demo1.props
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.demo1.props
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.demo1.props
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\staticwebassets.build.json
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\staticwebassets.development.json
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\scopedcss\bundle\demo1.styles.css
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.csproj.CopyComplete
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.dll
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\refint\demo1.dll
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.pdb
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\demo1.genruntimeconfig.cache
+D:\pranav\project\dotnet\demo1\obj\Debug\net7.0\ref\demo1.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Azure.Core.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Azure.Identity.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Humanizer.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\MySqlConnector.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.CodeDom.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.Memory.Data.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pranav\project\dotnet\demo1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\demo1.exe
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\demo1.deps.json
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\demo1.runtimeconfig.json
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\demo1.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\demo1.pdb
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.AssemblyInfo.cs
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\staticwebassets\msbuild.demo1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\staticwebassets\msbuild.build.demo1.props
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.demo1.props
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.demo1.props
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\scopedcss\bundle\demo1.styles.css
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.csproj.CopyComplete
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\refint\demo1.dll
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.pdb
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\demo1.genruntimeconfig.cache
+C:\Users\Dell\Downloads\demo1_v3 (2)\demo1_v3\demo1\obj\Debug\net7.0\ref\demo1.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\demo1.exe
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\demo1.deps.json
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\demo1.runtimeconfig.json
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\demo1.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\demo1.pdb
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.AssemblyInfo.cs
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\staticwebassets\msbuild.demo1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\staticwebassets\msbuild.build.demo1.props
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.demo1.props
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.demo1.props
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\scopedcss\bundle\demo1.styles.css
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.csproj.CopyComplete
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\refint\demo1.dll
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.pdb
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\demo1.genruntimeconfig.cache
+C:\Users\Dell\Downloads\demo1_v4\demo1_v4\demo1\obj\Debug\net7.0\ref\demo1.dll
